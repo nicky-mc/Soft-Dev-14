@@ -1,0 +1,54 @@
+body {
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+span {
+  margin: 100px;
+  font-size: 100px;
+  outline: 10px groove black;
+  font-weight: bolder;
+}
+h2 {
+  font-size: 45px;
+}
+h3 {
+  font-size: 40px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+p {
+  margin: 80px;
+  font-size: 30px;
+}
+img {
+  margin: 30px;
+  border: 8px groove lightgray;
+}
+.nav:link {
+  color: black;
+}
+.nav:visited {
+  color: gray;
+}
+.nav:hover:hover {
+  color: green;
+}
+.nav:active {
+  color: red;
+}
+.nav {
+  font-size: 30px;
+}
+.links {
+  font-size: 30px;
+  font-family: sans-serif;
+}
+.links:hover {
+  color: dodgerblue;
+}
+article {
+  font-family: "Times New Roman";
+}
